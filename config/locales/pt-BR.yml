@@ -1,0 +1,13 @@
+pt-BR:
+  activerecord:
+    models:
+      task: Tarefa
+      category: Categoria
+
+    attributes:
+      task:
+        name: Nome da Tarefa
+        details: Detalhes
+        category: Categoria papito
+        due_date: Prazos
+        done: Feito
